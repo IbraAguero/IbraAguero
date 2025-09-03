@@ -24,6 +24,7 @@
   ![DrizzleORM](https://img.shields.io/badge/Drizzle_ORM-333333?style=flat&logo=drizzle-orm)
 
 ### Contact Me
+<a href="ibrahimaguero@gmail.com](https://ibrahimaguero.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=flat-square"></a>  
 <a href="https://www.linkedin.com/in/ibrahim-aguero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Aguero-blue?style=flat-square&logo=linkedin"></a>
 <a href="ibrahimaguero@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ibrahimaguero@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
